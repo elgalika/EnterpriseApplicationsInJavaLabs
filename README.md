@@ -1,1 +1,1 @@
-Enterprice Applications in Java Labs
+Enterprise Applications in Java Labs
